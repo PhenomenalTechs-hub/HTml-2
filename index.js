@@ -1,0 +1,1 @@
+console.log("Hello Guys Iam a js file")
